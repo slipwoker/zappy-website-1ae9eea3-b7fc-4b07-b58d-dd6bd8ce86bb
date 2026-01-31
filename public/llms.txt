@@ -1,0 +1,53 @@
+# Legato — Generative Engine Optimization Map
+
+> A Music & Entertainment business.
+
+---
+
+## Pages
+
+### Home
+https://legato-1ae9eea3.zappy5.app
+
+### Mixes
+https://legato-1ae9eea3.zappy5.app/mixes
+
+### About
+https://legato-1ae9eea3.zappy5.app/about
+
+### Contact
+https://legato-1ae9eea3.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://legato-1ae9eea3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://legato-1ae9eea3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://legato-1ae9eea3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Legato
+Legato is a business in the Music & Entertainment industry.
+
+## Target Audience
+Music fans, event organizers, club promoters
+
+## Industry
+Music & Entertainment
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://legato-1ae9eea3.zappy5.app/sitemap.xml
+- **Robots.txt**: https://legato-1ae9eea3.zappy5.app/robots.txt

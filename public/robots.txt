@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://legato-1ae9eea3.zappy5.app/sitemap.xml
